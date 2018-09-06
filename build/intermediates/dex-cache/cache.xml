@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/f40b1f74e7c6f4e95deaf83d53e1483a9c050c33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_a3af4fc304279fa0f92f38ee1be54220223b323d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/91d544e5f83a6b4c5636867c06e81e5d17899330/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_4c6b704d685f5400819440005ff45ca762e798df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/common-1.0.0_835f2edb03987666c1689ceda3f47e1d89bb315d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/7a8752efd5433a390084a4fa237ef5c34adc2f72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_3850206b3cf74225c65dc6a2a0e624a06d738c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/364b4e126affb7af828f2a35264cb530ecae7979/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_5c7df6940949ca66b64a2f1e413567ae31b89a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/bb98eb52c5dd72402e2593245fde5520a3f82566/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_c8de552579fde5b4841f246e32d8be15331a1135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/4ef2a16639ebcca8bce070c0d26c8c22498534c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_bc7b023eeb3d990da2009331a0ebf6d9f3e0812e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/common-1.0.0_9a7fe4f9e825256612999e4b7d3ef2a14609aa40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/552c9aa44f4b6052ac224abc36cb5b337db34bae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_2187db0910e4300c197549a5e8b9b48863fb6ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/9807c3693c6fcceb2e2ec02ae9c9bde6426925d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_5c4f5dd950804675c163880736f3707e96c94346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/795d3e9bded0063c533ca75a45f0643dec5900b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_58abe49cf4302e3c0a43b54c3e608eba2eacc781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.android/build-cache/01f6e3920495db88ebc6470617df2c49323f02ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/classes_fb9bc207a62bff68b92076c87042e44e0435c7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.0/5dd2651003dcaafcdb73ff3c5230104dce215c19/protobuf-lite-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5dd2651003dcaafcdb73ff3c5230104dce215c19">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/protobuf-lite-3.0.0_95e2ed1f033d8d63280dc056f19e46c9bd27957f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xulong03/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/xulong03/Documents/workspace/protoTest/protobufSample/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_79dd45bb995ea3a7efbf866201717769f468db81.jar" />
+    </item>
+
+</items>
